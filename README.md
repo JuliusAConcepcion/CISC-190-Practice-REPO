@@ -10,8 +10,8 @@ This simple ATM simulates  user inputs to withdraw / deposit amount inside of th
 3. Enter **1** or to Deposit or **2** to Withdraw
 
 ## Example Output
-----------------------------------------------------------
-Please enter starting balance: $100\
+
+Please enter starting balance: $100
 
 Hello, would you like to make a Deposit or Withdrawal?\
 Enter 1 for Deposit\
@@ -19,14 +19,17 @@ Enter 2 for Withdrawal\
 1\
 Please enter deposit amount: $200\
 Enter 0 to skip\
-Please enter next deposit amount: $0\
+Please enter next deposit amount: $0
+
 Deposited: $200.0\
-New balance: $300.0\
+New balance: $300.0
+
 Are you finished?\
 Enter 1 for Yes\
 Enter 2 for No \
 1\
-Goodbye\
-----------------------------------------------------------
+Goodbye
+
+
 ## Author
 Julius A Concepcion
