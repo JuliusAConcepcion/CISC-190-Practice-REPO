@@ -2,10 +2,10 @@
 Practice REP for CISC190 class in SD MiraMar College
 
 # Lab: Simple ATM
-This simple ATM simulates  user inputs to withdraw / deposit amount inside of the output. Throughout use the code with ask if the user is done or would like to continue to withdraw / deposit.
+This simple ATM simulates  user inputs to withdraw / deposit amount inside of the output. Throughout use the code with ask if the user is done or would like to continue to withdraw / deposit. 
 
 ## How to Run
-1. Open the program in your IDE.
+1. Open the program in your IDE. Worked on InteliJ.
 2. Enter Starting Blanace
 3. Enter **1** or to Deposit or **2** to Withdraw
 
@@ -33,3 +33,5 @@ Goodbye
 
 ## Author
 Julius A Concepcion
+
+"Aiden Riodique Fixed your How to Run Description"
