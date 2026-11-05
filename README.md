@@ -35,3 +35,6 @@ Goodbye
 Julius A Concepcion
 
 "Aiden Riodique Fixed your How to Run Description"
+
+## Collaboration Acknowledgment
+This project was reviewed and edited by THE GOAT Aiden Riodique on GitHub.
