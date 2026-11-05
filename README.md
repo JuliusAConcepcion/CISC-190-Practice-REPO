@@ -20,10 +20,8 @@ Enter 2 for Withdrawal\
 Please enter deposit amount: $200\
 Enter 0 to skip\
 Please enter next deposit amount: $0\
-
 Deposited: $200.0\
 New balance: $300.0\
-
 Are you finished?\
 Enter 1 for Yes\
 Enter 2 for No \
